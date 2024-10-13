@@ -1,6 +1,14 @@
 # Motley Fool Wealth Management (MFWM) React Challenge
 Hello and thanks for working on the MFWM React Challenge. This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Quick run (if nvm installed)
+
+```bash
+nvm use 
+yarn
+yarn dev
+```
+
 ## Getting Started
 First, install all the dependencies. We recommend using npm for this project.
 
